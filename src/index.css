@@ -28,6 +28,7 @@ html, body, #root, .App{
   flex-flow:column nowrap;
   justify-content: center;
   align-items: center;
+  border-radius:10px;
 }
 .data{
   width:75%;
@@ -38,8 +39,10 @@ html, body, #root, .App{
   justify-content: center;
   align-items: center;
   border:2px solid black;
+  border-radius:10px;
 }
 button{
   width:7%;
   height:10%;
+  margin-top:1%;
 }
